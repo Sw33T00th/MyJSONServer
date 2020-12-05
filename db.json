@@ -1,9 +1,9 @@
 {
   "products": [
-    {"id": 1, "title": "corn", "description": "yellow crunchy corn", "price": 10, "img": "https://media1.s-nbcnews.com/i/newscms/2020_31/1595711/sweet-corn-kb-main-200730_245494067c0b1219e9ed9e4227f0a31a.jpg" },
-    {"id": 2, "title": "tomato", "description": "juicy red tomato", "price": 12, "img": "https://img.apmcdn.org/f09c67e1a0867e16c65cd420cb51ff6e4330f0b8/uncropped/5dc9e4-splendid-table-tomatoes-c-kanawa-studio-istock-gettyimages-1163317374-lede.jpg"},
-    {"id": 3, "title": "water","description": "clean & fresh water", "price": 2, "img": "https://cdn.kqed.org/wp-content/uploads/sites/39/2010/01/blog_bottle_desert.jpg"},
-    {"id": 4, "title": "roasted pork","description": "tasty spicy pork", "price": 30, "img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/crispy_roasted_pork_belly_0.jpg"},
-    {"id": 5, "title": "cookies","description": "chocolate home-made cookies", "price": 15, "img":"https://hostimul.com/uploads/catalog/blog/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg"}
+    {"id": 1, "title": "corn", "description": "yellow crunchy corn", "price": 10, "weight":"1000", "img": "https://media1.s-nbcnews.com/i/newscms/2020_31/1595711/sweet-corn-kb-main-200730_245494067c0b1219e9ed9e4227f0a31a.jpg" },
+    {"id": 2, "title": "tomato", "description": "juicy red tomato", "price": 12, "weight":"1000", "img": "https://img.apmcdn.org/f09c67e1a0867e16c65cd420cb51ff6e4330f0b8/uncropped/5dc9e4-splendid-table-tomatoes-c-kanawa-studio-istock-gettyimages-1163317374-lede.jpg"},
+    {"id": 3, "title": "water","description": "clean & fresh water", "price": 2, "weight":"500", "img": "https://cdn.kqed.org/wp-content/uploads/sites/39/2010/01/blog_bottle_desert.jpg"},
+    {"id": 4, "title": "roasted pork","description": "tasty spicy pork", "price": 30, "weight":"400", "img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/crispy_roasted_pork_belly_0.jpg"},
+    {"id": 5, "title": "cookies","description": "chocolate home-made cookies", "price": 15, "weight":"100", "img":"https://hostimul.com/uploads/catalog/blog/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg"}
   ]
 }
